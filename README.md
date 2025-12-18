@@ -154,9 +154,9 @@ Minor variation (±0.002 F1) may occur depending on GPU type.
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{asim2026distilling,
+@inproceedings{Majeed2026distilling,
   title={Distilling Semantics: Efficient Multi-label Code Comment Classification},
-  author={Majeed, Muhammad and Abdul Asim, Ahmed Bin},
+  author={Majeed, Muhammad Abdul and Asim, Ahmed Bin},
   booktitle={Proceedings of the NLBSE'26 Tool Competition},
   year={2026}
 }
