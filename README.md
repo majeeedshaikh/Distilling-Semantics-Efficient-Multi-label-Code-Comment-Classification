@@ -1,8 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/majeeedshaikh/Distilling-Semantics-Efficient-Multi-label-Code-Comment-Classification/blob/main/Code_Comment_FinalNotebook.ipynb)
-[![Paper](https://img.shields.io/badge/Paper-PDF-blue.svg)](paper.pdf)
-[![Dataset](https://img.shields.io/badge/Dataset-NLBSE'26-orange.svg)]
-(https://huggingface.co/datasets/NLBSE/nlbse26-code-comment-classification)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/majeeedshaikh/Distilling-Semantics-Efficient-Multi-label-Code-Comment-Classification/blob/main/Code_Comment_FinalNotebook.ipynb)
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue.svg)](Paper_Finalv.pdf)
+[![Dataset](https://img.shields.io/badge/Dataset-NLBSE'26-orange.svg)](https://huggingface.co/datasets/NLBSE/nlbse26-code-comment-classification)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 # Distilling Semantics: Efficient Multi-label Code Comment Classification (NLBSE'26)
